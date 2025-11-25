@@ -220,3 +220,5 @@ combos:
   k: ','
 - p: [27, 28]
   k: PERIOD
+- p: [9, 37]
+  k: Alt+Ctl+DEL
