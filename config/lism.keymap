@@ -101,7 +101,7 @@
             bindings = <
 &kp F1     &kp F2          &kp F3            &kp F4        &kp F5                               &kp F6                   &kp F7               &kp F8         &kp F9      &kp F10
 &kp PLUS   &kp EXCL        &kp LS(NUMBER_6)  &kp QUESTION  &kp RIGHT_BRACKET                    &kp LEFT_BRACKET         &kp LS(N8)           &kp PAGE_UP    &kp LS(N9)  &kp SINGLE_QUOTE
-&none      &kp PERCENT     &kp AMPS          &kp AT        &trans                               &kp LS(INTERNATIONAL_1)  &kp INTERNATIONAL_3  &kp PAGE_DOWN  &trans      &kp F11
+&none      &kp PERCENT     &kp AMPS          &kp AT        &trans                               &kp LS(INTERNATIONAL_1)  &kp INTERNATIONAL_3  &kp PAGE_DOWN  &none       &kp F11
 &kp LCTRL  &kp LEFT_SHIFT  &kp HASH          &trans        &trans             &trans    &trans  &kp ENTER                &trans               &none          &none       &kp F12
             >;
         };
