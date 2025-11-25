@@ -19,7 +19,7 @@ layers:
   - H
   - J
   - {t: K, h: Number Layer}
-  - L
+  - {t: L, h: Mouse Layer}
   - {t: '-', h: LCTRL}
   - Z
   - X
@@ -62,7 +62,7 @@ layers:
   - Gui+↑
   - '&mkp MB1'
   - '&mkp MB2'
-  - '&msc SCRL_UP'
+  - {t: '&msc SCRL_UP', type: held}
   - '&msc SCRL_DOWN'
   - {t: ▽, type: trans}
   - Sft+Ctl+LEFT ARROW
