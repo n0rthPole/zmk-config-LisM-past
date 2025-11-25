@@ -8,6 +8,8 @@ manifest:
       url-base: https://github.com/caksoylar
     - name: 4mplelab
       url-base: https://github.com/4mplelab
+    - name: n0rthPole
+      url-base: https://github.com/n0rthPole
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -23,7 +25,7 @@ manifest:
       remote: 4mplelab
       revision: main
     - name: zmk-keyboards-LisM
-      remote: 4mplelab
+      remote: n0rthPole
       revision: main
       path: zmk-keyboards-LisM
   self:
