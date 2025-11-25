@@ -87,48 +87,48 @@ layers:
   - {t: ▽, type: trans}
   - Gui+W
   Number Layer:
+  - ESCAPE
+  - KP 7
+  - KP 8
+  - KP 9
+  - '-'
+  - KP NUM
+  - Sft+TAB
+  - Gui+TAB
   - {t: ▽, type: trans}
-  - '7'
-  - '8'
-  - '9'
-  - '='
-  - F1
-  - F2
-  - F7
-  - F10
-  - RSHIFT
-  - '*'
-  - {t: '4', h: LALT}
-  - {t: '5', h: LSHIFT}
-  - {t: '6', h: LGUI}
-  - {t: '-', h: LCTRL}
-  - '&mkp MB1'
-  - ←
+  - TAB
+  - KP MULTIPLY
+  - KP 4
+  - KP 5
+  - KP 6
+  - ':'
+  - \
+  - '&mkp MB4'
   - ↑
-  - →
-  - RGUI
-  - /
-  - '1'
-  - '2'
-  - '3'
-  - +
-  - '&mkp MB2'
-  - ''
+  - '&mkp MB5'
+  - ''''
+  - KP SLASH
+  - KP 1
+  - KP 2
+  - KP 3
+  - Sft+-
+  - Ctl+HOME
+  - LEFT ARROW
   - ↓
-  - ''
-  - RALT
+  - RIGHT ARROW
+  - Ctl+END
+  - {t: ',', h: LCTRL}
+  - {t: KP 0, h: LEFT SHIFT}
+  - KP DOT
   - {t: ▽, type: trans}
-  - .
-  - '0'
-  - {t: ▽, type: trans}
-  - {t: LANG2, type: held}
-  - {t: ▽, type: trans}
+  - {t: ENTER, type: held}
+  - DEL
   - {t: ▽, type: trans}
   - LANG1
   - {t: ▽, type: trans}
-  - Sft+Ctl+TAB
-  - Ctl+TAB
-  - F12
+  - ''
+  - ''
+  - {t: ▽, type: trans}
   Mark Layer:
   - Sft+Gui+4
   - F4
