@@ -12,15 +12,15 @@ layers:
   - O
   - P
   - A
-  - {t: S, h: LALT}
-  - {t: D, h: LSHIFT}
-  - {t: F, h: LGUI}
-  - {t: G, h: LCTRL}
-  - {t: H, h: RCTRL}
-  - {t: J, h: RGUI}
-  - {t: K, h: RSHIFT}
-  - {t: L, h: RALT}
-  - {t: ;, h: Mark Layer}
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - {t: '-', h: LCTRL}
   - Z
   - X
   - C
@@ -28,21 +28,21 @@ layers:
   - B
   - N
   - M
-  - ','
-  - .
-  - /
-  - {t: DEL, h: Device Layer}
-  - {t: Mouse Layer, h: toggle}
-  - {t: TAB, h: Mouse Layer}
-  - Sft+Gui+4
+  - '&mkp MB1'
+  - '&mkp MB2'
+  - {t: /, h: LEFT SHIFT}
+  - LCTRL
+  - LEFT GUI
+  - {t: LEFT ALT, h: LANGUAGE 2}
+  - ''
   - {t: SPACE, h: Number Layer}
-  - {t: ESC, h: Mark Layer}
-  - {t: BS, h: Mark Layer}
+  - {t: LANGUAGE 1, h: Mark Layer}
+  - BS
   - {t: ENTER, h: Number Layer}
-  - Sft+Gui+4
-  - F7
-  - F10
-  - {t: F12, h: Device Layer}
+  - ''
+  - ''
+  - ''
+  - Sft+Gui+S
   Mouse Layer:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -76,7 +76,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -149,7 +149,7 @@ layers:
   - _
   - ''''
   - '"'
-  - {t: \, type: held}
+  - \
   - KP NUMLOCK
   - F11
   - '{'
@@ -165,7 +165,7 @@ layers:
   - '0'
   - {t: ▽, type: trans}
   - SPACE
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - ENTER
   - {t: ▽, type: trans}
@@ -203,7 +203,7 @@ layers:
   - ''
   - ''
   - Reset
-  - {t: Boot, type: held}
+  - Boot
   - BT CLR ALL
   - ''
   - ''
@@ -215,3 +215,8 @@ layers:
   - ''
   - ''
   - Boot
+combos:
+- p: [26, 27]
+  k: ','
+- p: [27, 28]
+  k: PERIOD
