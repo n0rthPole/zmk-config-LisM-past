@@ -98,7 +98,7 @@
 &mt LCTRL COMMA  &mt LEFT_SHIFT KP_NUMBER_0  &kp KP_DOT       &trans           &kp ENTER      &kp DEL    &trans  &kp LANG1      &trans          &none        &none            &trans
             >;
 
-            sensor-bindings = <&encoder_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&encoder_msc SCRL_LEFT SCRL_RIGHT>;
         };
 
         layer_3 {
