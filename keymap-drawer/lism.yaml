@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: lism}
 layers:
   Default Layer:
-  - Q
+  - {t: Q, h: Device Layer}
   - W
   - E
   - R
@@ -173,7 +173,7 @@ layers:
   - ''
   - F12
   Device Layer:
-  - ''
+  - {type: held}
   - ''
   - ''
   - ''
