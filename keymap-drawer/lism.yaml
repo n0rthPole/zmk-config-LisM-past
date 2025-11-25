@@ -18,7 +18,7 @@ layers:
   - G
   - H
   - J
-  - K
+  - {t: K, h: Number Layer}
   - L
   - {t: '-', h: LCTRL}
   - Z
@@ -104,7 +104,7 @@ layers:
   - ':'
   - \
   - '&mkp MB4'
-  - ↑
+  - {t: ↑, type: held}
   - '&mkp MB5'
   - ''''
   - KP SLASH
@@ -121,7 +121,7 @@ layers:
   - {t: KP 0, h: LEFT SHIFT}
   - KP DOT
   - {t: ▽, type: trans}
-  - {t: ENTER, type: held}
+  - ENTER
   - DEL
   - {t: ▽, type: trans}
   - LANG1
