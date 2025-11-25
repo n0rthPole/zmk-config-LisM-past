@@ -130,41 +130,41 @@ layers:
   - ''
   - {t: ▽, type: trans}
   Mark Layer:
-  - Sft+Gui+4
+  - F1
+  - F2
+  - F3
   - F4
-  - (
-  - )
-  - ''
-  - '~'
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '&emoji'
   - F5
-  - '['
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - +
+  - '!'
+  - Sft+6
+  - QUESTION
   - ']'
-  - ''
-  - '`'
-  - _
+  - '['
+  - Sft+8
+  - PAGE UP
+  - Sft+9
   - ''''
-  - '"'
-  - \
-  - KP NUMLOCK
-  - F11
-  - '{'
-  - '}'
   - ''
-  - '|'
   - '%'
-  - ^
-  - '&'
-  - '*'
+  - AMPS
+  - AT
+  - {t: ▽, type: trans}
+  - Sft+INTERNATIONAL 1
+  - INTERNATIONAL 3
+  - PAGE DOWN
+  - {t: ▽, type: trans}
+  - F11
+  - LCTRL
+  - LEFT SHIFT
+  - '#'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '0'
-  - {t: ▽, type: trans}
-  - SPACE
   - {type: held}
   - {t: ▽, type: trans}
   - ENTER
