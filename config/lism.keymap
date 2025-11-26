@@ -151,7 +151,7 @@
 
         layer_5 {
             status = "reserved";
-            display-name = "Brank Layer";
+            display-name = "Macro Layer";
             bindings = <
 &kp LA(F8)  &macro2    &trans                 &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)                    &trans  &kp LS(LC(L))  &macro3  &trans  &trans
 &kp LC(Y)   &kp LC(X)  &kp LS(LC(SEMICOLON))  &kp LC(MINUS)    &trans                               &trans  &trans         &trans   &trans  &trans
