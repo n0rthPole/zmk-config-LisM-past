@@ -49,30 +49,26 @@ layers:
   - Gui+D
   - Gui+RIGHT ARROW
   - {t: ▽, type: trans}
-  - SPACE
-  - Gui+←
-  - Gui+→
-  - '&mkp MB3'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+Gui+LEFT ARROW
   - Sft+Ctl+UP ARROW
   - Sft+Gui+RIGHT ARROW
   - {t: ▽, type: trans}
-  - Gui+↑
-  - '&mkp MB1'
-  - '&mkp MB2'
-  - {t: '&msc SCRL_UP', type: held}
-  - '&msc SCRL_DOWN'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+Ctl+LEFT ARROW
   - Sft+Ctl+DOWN ARROW
   - Sft+Ctl+RIGHT ARROW
   - {t: ▽, type: trans}
-  - Gui+↓
-  - ←
-  - ↑
-  - →
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -83,9 +79,13 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - ↓
   - {t: ▽, type: trans}
-  - Gui+W
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   Number Layer:
   - ESCAPE
   - KP 7
