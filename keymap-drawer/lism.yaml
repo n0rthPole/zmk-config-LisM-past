@@ -18,7 +18,7 @@ layers:
   - G
   - H
   - J
-  - {t: K, h: Number Layer}
+  - {t: K, h: Mark Layer}
   - {t: L, h: Mouse Layer}
   - {t: '-', h: LCTRL}
   - Z
@@ -61,7 +61,7 @@ layers:
   - ':'
   - \
   - '&mkp MB4'
-  - {t: ↑, type: held}
+  - ↑
   - '&mkp MB5'
   - ''''
   - KP SLASH
@@ -79,7 +79,7 @@ layers:
   - KP DOT
   - {t: ▽, type: trans}
   - ENTER
-  - DEL
+  - {t: DEL, type: held}
   - {t: ▽, type: trans}
   - LANGUAGE 2
   - {t: ▽, type: trans}
@@ -104,7 +104,7 @@ layers:
   - ']'
   - '['
   - Sft+8
-  - PAGE UP
+  - {t: PAGE UP, type: held}
   - Sft+9
   - ''''
   - ''
@@ -121,7 +121,7 @@ layers:
   - LEFT SHIFT
   - '#'
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ENTER
