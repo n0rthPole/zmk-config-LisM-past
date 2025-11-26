@@ -61,4 +61,14 @@
       "enabled": true
     }
   ]
+  "parse_config": {
+    "zmk_layer_names": [
+      "Default Layer",
+      "Number Layer",
+      "Mark Layer",
+      "Mouse Layer",
+      "Device Layer",
+      "Macro Layer"
+    ]
+  }
 }
