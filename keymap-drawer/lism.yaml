@@ -35,57 +35,14 @@ layers:
   - LEFT GUI
   - {t: LEFT ALT, h: LANGUAGE 2}
   - ''
-  - {t: SPACE, h: Number Layer}
-  - {t: LANGUAGE 1, h: Mark Layer}
+  - {t: SPACE, h: Mark Layer}
+  - {t: LANGUAGE 1, h: Number Layer}
   - BS
   - {t: ENTER, h: Number Layer}
   - ''
   - ''
   - ''
   - Sft+Gui+S
-  Mouse Layer:
-  - {t: ▽, type: trans}
-  - Gui+LEFT ARROW
-  - Gui+D
-  - Gui+RIGHT ARROW
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - Sft+Gui+LEFT ARROW
-  - Sft+Ctl+UP ARROW
-  - Sft+Gui+RIGHT ARROW
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - Sft+Ctl+LEFT ARROW
-  - Sft+Ctl+DOWN ARROW
-  - Sft+Ctl+RIGHT ARROW
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   Number Layer:
   - ESCAPE
   - KP 7
@@ -164,14 +121,57 @@ layers:
   - LEFT SHIFT
   - '#'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ENTER
   - {t: ▽, type: trans}
   - ''
   - ''
   - F12
+  Mouse Layer:
+  - {t: ▽, type: trans}
+  - Gui+LEFT ARROW
+  - Gui+D
+  - Gui+RIGHT ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Sft+Gui+LEFT ARROW
+  - Sft+Ctl+UP ARROW
+  - Sft+Gui+RIGHT ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Sft+Ctl+LEFT ARROW
+  - Sft+Ctl+DOWN ARROW
+  - Sft+Ctl+RIGHT ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   Device Layer:
   - {type: held}
   - ''
