@@ -37,7 +37,7 @@ layers:
   - ''
   - {t: SPACE, h: Mark Layer}
   - {t: LANGUAGE 1, h: Number Layer}
-  - BS
+  - {t: BS, h: Macro Layer}
   - {t: ENTER, h: Number Layer}
   - ''
   - ''
@@ -215,6 +215,49 @@ layers:
   - ''
   - ''
   - Boot
+  Macro Layer:
+  - Alt+F8
+  - '&macro2'
+  - {t: ▽, type: trans}
+  - Ctl+PAGE UP
+  - Ctl+PAGE DOWN
+  - {t: ▽, type: trans}
+  - Sft+Ctl+L
+  - '&macro3'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Ctl+Y
+  - Ctl+X
+  - Sft+Ctl+;
+  - Ctl+-
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Ctl+Z
+  - Ctl+C
+  - '&macro0'
+  - '&macro1'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
 combos:
 - p: [26, 27]
   k: ','
