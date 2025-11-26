@@ -33,7 +33,7 @@ layers:
   - {t: /, h: LEFT SHIFT}
   - LCTRL
   - LEFT GUI
-  - {t: LEFT ALT, h: LANGUAGE 2}
+  - LEFT ALT
   - ''
   - {t: SPACE, h: Mark Layer}
   - {t: LANGUAGE 1, h: Number Layer}
@@ -81,7 +81,7 @@ layers:
   - ENTER
   - DEL
   - {t: ▽, type: trans}
-  - LANG1
+  - LANGUAGE 2
   - {t: ▽, type: trans}
   - ''
   - ''
