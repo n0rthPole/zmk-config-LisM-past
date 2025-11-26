@@ -44,8 +44,16 @@ parse_config:
     UP: "↑"
     DOWN: "↓"
 
+  zmk_layer_names:
+    0: "Default Layer"
+    1: "Number Layer"
+    2: "Mark Layer"
+    3: "Mouse Layer"
+    4: "Device Layer"
+    5: "Macro Layer"
 
 draw_config:
   dark_mode: auto
   glyph_tap_size: 18
+
   footer_text: 'LisM KEYMAPS | Created with keymap-drawer' 
