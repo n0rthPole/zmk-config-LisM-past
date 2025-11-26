@@ -76,7 +76,7 @@
 &kp LCTRL  &kp LEFT_GUI  &mt LANGUAGE_2 LEFT_ALT  &none  &lt 2 SPACE  &lt 1 LANGUAGE_1    &kp BACKSPACE  &lt 1 ENTER  &none  &none     &none     &kp LS(LG(S))
             >;
 
-            sensor-bindings = <&encoder_msc SCRL_DOWN SCRL_UP>;
+            sensor-bindings = <&encoder_msc SCRL_UP SCRL_DOWN>;
         };
 
         layer_1 {
@@ -88,7 +88,7 @@
 &mt LCTRL COMMA  &mt LEFT_SHIFT KP_NUMBER_0  &kp KP_DOT       &trans           &kp ENTER      &kp DEL    &trans  &kp LANG1      &trans          &none        &none            &trans
             >;
 
-            sensor-bindings = <&encoder_msc SCRL_LEFT SCRL_RIGHT>;
+            sensor-bindings = <&encoder_msc SCRL_RIGHT SCRL_LEFT>;
         };
 
         layer_2 {
