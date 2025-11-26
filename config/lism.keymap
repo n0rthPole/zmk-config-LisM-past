@@ -153,7 +153,7 @@
             status = "reserved";
             display-name = "Macro Layer";
             bindings = <
-&kp LA(F8)  &macro2    &trans                 &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)                    &none   &kp LS(LC(L))  &macro3  &trans  &trans
+&kp LA(F8)  &macro2    &trans                 &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)                    &trans  &kp LS(LC(L))  &macro3  &trans  &trans
 &kp LC(Y)   &kp LC(X)  &kp LS(LC(SEMICOLON))  &kp LC(MINUS)    &trans                               &trans  &trans         &trans   &trans  &trans
 &kp LC(Z)   &kp LC(C)  &macro0                &macro1          &trans                               &trans  &trans         &trans   &trans  &trans
 &trans      &trans     &trans                 &trans           &trans             &trans    &trans  &trans  &trans         &trans   &trans  &trans
