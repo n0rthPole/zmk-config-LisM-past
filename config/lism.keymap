@@ -55,7 +55,6 @@
             bindings = <&kp LEFT_ALT &kp D &kp F &kp S>;
             label = "MACRO3";
         };
-
     };
 
     behaviors {
@@ -99,7 +98,7 @@
         default_layer {
             display-name = "Default Layer";
             bindings = <
-&lt 5 Q    &kp W         &kp E         &kp R  &kp T                                           &kp Y        &kp U  &kp I     &kp O     &kp P
+&lt 4 Q    &kp W         &kp E         &kp R  &kp T                                           &kp Y        &kp U  &kp I     &kp O     &kp P
 &kp A      &kp S         &kp D         &kp F  &kp G                                           &kp H        &kp J  &lt 1 K   &lt 3 L   &mt LCTRL MINUS
 &kp Z      &kp X         &kp C         &kp V  &kp B                                           &kp N        &kp M  &mkp MB1  &mkp MB2  &mt LEFT_SHIFT SLASH
 &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &none  &lt 2 SPACE  &lt 1 LANGUAGE_1    &kp BACKSPACE  &lt 1 ENTER  &none  &none     &none     &kp LS(LG(S))
@@ -141,23 +140,23 @@
         };
 
         layer_4 {
-            status = "reserved";
-            display-name = "Macro Layer";
-            bindings = <
-&trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-            >;
-        };
-
-        layer_5 {
             display-name = "Device Layer";
             bindings = <
 &none        &none           &none  &none  &bt BT_CLR                           &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4
 &none        &none           &none  &none  &none                                &none         &none         &none         &none         &none
 &sys_reset   &none           &none  &none  &none                                &none         &none         &none         &none         &sys_reset
 &bootloader  &bt BT_CLR_ALL  &none  &none  &none       &none    &studio_unlock  &none         &none         &none         &none         &bootloader
+            >;
+        };
+
+        layer_5 {
+            status = "reserved";
+            display-name = "Macro Layer";
+            bindings = <
+&kp LA(F8)  &macro2  &trans  &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)                    &trans  &trans  &trans  &trans  &trans
+&trans      &trans   &trans  &trans           &trans                               &trans  &trans  &trans  &trans  &trans
+&trans      &trans   &trans  &trans           &trans                               &trans  &trans  &trans  &trans  &trans
+&trans      &trans   &trans  &trans           &trans             &trans    &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
