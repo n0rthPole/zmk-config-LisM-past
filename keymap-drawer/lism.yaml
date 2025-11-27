@@ -189,8 +189,8 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - ''
+  - BRI UP
+  - VOL UP
   - ''
   - ''
   - Reset
@@ -199,8 +199,8 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - ''
+  - BRI DN
+  - VOL DN
   - ''
   - Reset
   - Boot
