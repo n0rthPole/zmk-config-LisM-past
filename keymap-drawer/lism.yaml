@@ -33,14 +33,14 @@ layers:
   - {t: /, h: LEFT SHIFT}
   - LCTRL
   - LEFT GUI
-  - LEFT ALT
+  - {t: LEFT ALT, h: Macro Layer}
   - ''
   - {t: SPACE, h: Mark Layer}
   - {t: LANGUAGE 1, h: Number Layer}
-  - {t: BS, h: Macro Layer}
+  - BS
   - {t: ENTER, h: Number Layer}
   - ''
-  - ''
+  - {t: Macro Layer, h: sticky}
   - ''
   - Sft+Gui+S
   Number Layer:
@@ -248,11 +248,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
