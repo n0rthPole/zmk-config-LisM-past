@@ -10,7 +10,7 @@ layers:
   - U
   - I
   - O
-  - P
+  - {t: P, h: Macro Layer}
   - A
   - S
   - D
@@ -225,7 +225,7 @@ layers:
   - Sft+Ctl+L
   - '&macro3'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - Ctl+Y
   - Ctl+X
   - Sft+Ctl+;
@@ -248,7 +248,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
