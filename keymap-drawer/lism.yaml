@@ -124,7 +124,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - ENTER
+  - LANGUAGE 2
   - {t: ▽, type: trans}
   - ''
   - ''
