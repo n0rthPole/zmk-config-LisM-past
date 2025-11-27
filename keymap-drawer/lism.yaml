@@ -21,7 +21,7 @@ layers:
   - {t: K, h: Mark Layer}
   - {t: L, h: Mouse Layer}
   - {t: '-', h: LCTRL}
-  - Z
+  - {t: LEFT SHIFT, h: Z}
   - X
   - C
   - V
