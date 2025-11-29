@@ -28,8 +28,8 @@ layers:
   - B
   - N
   - M
-  - '&mkp MB1'
-  - '&mkp MB2'
+  - ','
+  - .
   - {t: /, h: LEFT SHIFT}
   - LCTRL
   - LEFT GUI
