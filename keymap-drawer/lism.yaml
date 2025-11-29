@@ -17,9 +17,9 @@ layers:
   - F
   - G
   - H
-  - J
-  - {t: K, h: Mark Layer}
-  - {t: L, h: Mouse Layer}
+  - {t: J, h: Mark Layer}
+  - K
+  - L
   - {t: '-', h: LCTRL}
   - {t: Z, h: LEFT SHIFT}
   - X
@@ -41,7 +41,7 @@ layers:
   - {t: ENTER, h: Number Layer}
   - ''
   - {t: Macro Layer, h: sticky}
-  - ''
+  - {t: Mouse Layer, h: sticky}
   - Sft+Gui+S
   Number Layer:
   - ESCAPE
@@ -103,8 +103,8 @@ layers:
   - QUESTION
   - ']'
   - '['
-  - Sft+8
-  - {t: PAGE UP, type: held}
+  - {t: Sft+8, type: held}
+  - PAGE UP
   - Sft+9
   - ''''
   - ''
@@ -148,7 +148,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+Ctl+LEFT ARROW
@@ -170,7 +170,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   Device Layer:
   - {type: held}
