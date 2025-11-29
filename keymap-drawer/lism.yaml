@@ -17,8 +17,8 @@ layers:
   - F
   - G
   - H
-  - {t: J, h: Mark Layer}
   - K
+  - {t: K, h: Mark Layer}
   - L
   - {t: '-', h: LCTRL}
   - {t: Z, h: LEFT SHIFT}
@@ -103,8 +103,8 @@ layers:
   - QUESTION
   - ']'
   - '['
-  - {t: Sft+8, type: held}
-  - PAGE UP
+  - Sft+8
+  - {t: PAGE UP, type: held}
   - Sft+9
   - ''''
   - ''
