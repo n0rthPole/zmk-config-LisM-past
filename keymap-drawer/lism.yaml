@@ -33,14 +33,14 @@ layers:
   - {t: /, h: LEFT SHIFT}
   - LCTRL
   - LEFT GUI
-  - {t: LEFT ALT, h: Macro Layer}
+  - LEFT ALT
   - ''
   - {t: SPACE, h: Mark Layer}
   - {t: LANGUAGE 1, h: Macro Layer}
   - BS
   - {t: ENTER, h: Number Layer}
   - ''
-  - {t: Macro Layer, h: sticky}
+  - ''
   - {t: Mouse Layer, h: sticky}
   - Sft+Gui+S
   Number Layer:
