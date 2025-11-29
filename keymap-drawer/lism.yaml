@@ -19,7 +19,7 @@ layers:
   - H
   - J
   - {t: K, h: Mark Layer}
-  - L
+  - {t: L, h: Mouse Layer}
   - {t: '-', h: LCTRL}
   - {t: Z, h: LEFT SHIFT}
   - X
@@ -148,7 +148,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+Ctl+LEFT ARROW
@@ -170,7 +170,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   Device Layer:
   - {type: held}
