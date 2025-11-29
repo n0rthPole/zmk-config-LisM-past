@@ -143,7 +143,7 @@
 &lt 4 Q                           &kp W         &kp E           &kp R  &kp T                                           &kp Y        &kp U  &kp I      &kp O    &lt 5 P
 &kp A                             &kp S         &kp D           &kp F  &kp G                                           &kp H        &kp J  &lt 2 K    &lt 3 L  &mt LCTRL MINUS
 &mt_exit_AML_on_tap LEFT_SHIFT Z  &kp X         &kp C           &kp V  &kp B                                           &kp N        &kp M  &kp COMMA  &kp DOT  &mt LEFT_SHIFT SLASH
-&kp LCTRL                         &kp LEFT_GUI  &lt 5 LEFT_ALT  &none  &lt 2 SPACE  &lt 1 LANGUAGE_1    &kp BACKSPACE  &lt 1 ENTER  &none  &sl 5      &sl 3    &kp LS(LG(S))
+&kp LCTRL                         &kp LEFT_GUI  &lt 5 LEFT_ALT  &none  &lt 2 SPACE  &lt 5 LANGUAGE_1    &kp BACKSPACE  &lt 1 ENTER  &none  &sl 5      &sl 3    &kp LS(LG(S))
             >;
 
             sensor-bindings = <&encoder_msc SCRL_DOWN SCRL_UP>;
@@ -152,10 +152,10 @@
         layer_1 {
             display-name = "Number Layer";
             bindings = <
-&kp ESCAPE       &kp KP_NUMBER_7             &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp MINUS                         &kp KP_NUM      &kp LS(TAB)     &kp LG(TAB)  &trans           &kp TAB
-&kp KP_MULTIPLY  &kp KP_NUMBER_4             &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp COLON                         &kp BACKSLASH   &mkp MB4        &kp UP       &mkp MB5         &kp SINGLE_QUOTE
-&kp KP_SLASH     &kp KP_NUMBER_1             &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp LS(MINUS)                     &kp LC(HOME)    &kp LEFT_ARROW  &kp DOWN     &kp RIGHT_ARROW  &kp LC(END)
-&mt LCTRL COMMA  &mt LEFT_SHIFT KP_NUMBER_0  &kp KP_DOT       &trans           &kp ENTER      &kp DEL    &trans  &kp LANGUAGE_2  &trans          &none        &none            &trans
+&kp ESCAPE       &kp KP_NUMBER_7             &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp MINUS                         &kp KP_NUM     &kp LS(TAB)     &kp LG(TAB)  &trans           &kp TAB
+&kp KP_MULTIPLY  &kp KP_NUMBER_4             &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp COLON                         &kp BACKSLASH  &mkp MB4        &kp UP       &mkp MB5         &kp SINGLE_QUOTE
+&kp KP_SLASH     &kp KP_NUMBER_1             &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp LS(MINUS)                     &kp LC(HOME)   &kp LEFT_ARROW  &kp DOWN     &kp RIGHT_ARROW  &kp LC(END)
+&mt LCTRL COMMA  &mt LEFT_SHIFT KP_NUMBER_0  &kp KP_DOT       &trans           &kp ENTER      &kp DEL    &trans  &trans         &trans          &trans       &trans           &trans
             >;
 
             sensor-bindings = <&encoder_msc SCRL_LEFT SCRL_RIGHT>;
@@ -194,10 +194,10 @@
         layer_5 {
             display-name = "Macro Layer";
             bindings = <
-&kp LA(F8)  &macro2    &trans                 &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)                    &trans  &kp LS(LC(L))  &macro3  &trans  &trans
-&kp LC(Y)   &kp LC(X)  &kp LS(LC(SEMICOLON))  &kp LC(MINUS)    &trans                               &trans  &trans         &trans   &trans  &trans
-&kp LC(Z)   &kp LC(C)  &macro0                &macro1          &trans                               &trans  &trans         &trans   &trans  &trans
-&trans      &trans     &trans                 &trans           &trans             &trans    &trans  &trans  &trans         &trans   &trans  &trans
+&kp LA(F8)  &macro2    &trans                 &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)                    &trans          &kp LS(LC(L))  &macro3  &trans  &trans
+&kp LC(Y)   &kp LC(X)  &kp LS(LC(SEMICOLON))  &kp LC(MINUS)    &trans                               &trans          &trans         &trans   &trans  &trans
+&kp LC(Z)   &kp LC(C)  &macro0                &macro1          &trans                               &trans          &trans         &trans   &trans  &trans
+&trans      &trans     &trans                 &trans           &trans             &trans    &trans  &kp LANGUAGE_2  &trans         &trans   &trans  &trans
             >;
         };
 
