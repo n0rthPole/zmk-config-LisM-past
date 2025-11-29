@@ -21,7 +21,7 @@ layers:
   - {t: K, h: Mark Layer}
   - {t: L, h: Mouse Layer}
   - {t: '-', h: LCTRL}
-  - {t: Z, h: LEFT SHIFT}
+  - {t: '&kp_exit_AML Z', h: LEFT SHIFT}
   - X
   - C
   - V
