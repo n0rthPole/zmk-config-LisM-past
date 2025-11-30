@@ -333,14 +333,6 @@ path.combo { stroke: #7f7f7f; }
 </text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="546" y="127" width="28" height="26" class="combo"/>
-<text x="560" y="140" class="combo tap">,</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
-<text x="616" y="140" class="combo tap">PERIOD</text>
-</g>
-<g class="combo combopos-2">
 <path d="M588,112 l97,-73" class="combo"/>
 <path d="M588,112 l-97,73" class="combo"/>
 <rect rx="6" ry="6" x="574" y="99" width="28" height="26" class="combo"/>
@@ -561,14 +553,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="546" y="127" width="28" height="26" class="combo"/>
-<text x="560" y="140" class="combo tap">,</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
-<text x="616" y="140" class="combo tap">PERIOD</text>
-</g>
-<g class="combo combopos-2">
 <path d="M588,112 l97,-73" class="combo"/>
 <path d="M588,112 l-97,73" class="combo"/>
 <rect rx="6" ry="6" x="574" y="99" width="28" height="26" class="combo"/>
@@ -757,14 +741,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key tap">F12</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="546" y="127" width="28" height="26" class="combo"/>
-<text x="560" y="140" class="combo tap">,</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
-<text x="616" y="140" class="combo tap">PERIOD</text>
-</g>
-<g class="combo combopos-2">
 <path d="M588,112 l97,-73" class="combo"/>
 <path d="M588,112 l-97,73" class="combo"/>
 <rect rx="6" ry="6" x="574" y="99" width="28" height="26" class="combo"/>
@@ -961,14 +937,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="546" y="127" width="28" height="26" class="combo"/>
-<text x="560" y="140" class="combo tap">,</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
-<text x="616" y="140" class="combo tap">PERIOD</text>
-</g>
-<g class="combo combopos-2">
 <path d="M588,112 l97,-73" class="combo"/>
 <path d="M588,112 l-97,73" class="combo"/>
 <rect rx="6" ry="6" x="574" y="99" width="28" height="26" class="combo"/>
@@ -1141,14 +1109,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key tap">Boot</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="546" y="127" width="28" height="26" class="combo"/>
-<text x="560" y="140" class="combo tap">,</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
-<text x="616" y="140" class="combo tap">PERIOD</text>
-</g>
-<g class="combo combopos-2">
 <path d="M588,112 l97,-73" class="combo"/>
 <path d="M588,112 l-97,73" class="combo"/>
 <rect rx="6" ry="6" x="574" y="99" width="28" height="26" class="combo"/>
@@ -1339,14 +1299,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="546" y="127" width="28" height="26" class="combo"/>
-<text x="560" y="140" class="combo tap">,</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
-<text x="616" y="140" class="combo tap">PERIOD</text>
-</g>
-<g class="combo combopos-2">
 <path d="M588,112 l97,-73" class="combo"/>
 <path d="M588,112 l-97,73" class="combo"/>
 <rect rx="6" ry="6" x="574" y="99" width="28" height="26" class="combo"/>
@@ -1528,14 +1480,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="546" y="127" width="28" height="26" class="combo"/>
-<text x="560" y="140" class="combo tap">,</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="602" y="127" width="28" height="26" class="combo"/>
-<text x="616" y="140" class="combo tap">PERIOD</text>
-</g>
-<g class="combo combopos-2">
 <path d="M588,112 l97,-73" class="combo"/>
 <path d="M588,112 l-97,73" class="combo"/>
 <rect rx="6" ry="6" x="574" y="99" width="28" height="26" class="combo"/>

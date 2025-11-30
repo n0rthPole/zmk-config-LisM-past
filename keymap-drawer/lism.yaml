@@ -302,9 +302,5 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
-- p: [26, 27]
-  k: ','
-- p: [27, 28]
-  k: PERIOD
 - p: [9, 37]
   k: Alt+Ctl+DEL
